@@ -1,0 +1,5 @@
+code/__pycache__
+code/.vscode
+code/save
+*.pptx
+*.docx
